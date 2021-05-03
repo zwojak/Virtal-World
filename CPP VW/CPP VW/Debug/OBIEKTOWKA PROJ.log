@@ -1,0 +1,8 @@
+﻿  Human.cpp
+  World.cpp
+c:\users\kubaz\source\repos\obiektowka proj\obiektowka proj\world.cpp(62): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaz\source\repos\obiektowka proj\obiektowka proj\world.cpp(154): warning C4101: "number": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+c:\users\kubaz\source\repos\obiektowka proj\obiektowka proj\world.cpp(79): warning C4717: "World::DoRound": cykliczne we wszystkich ścieżkach przepływu, funkcja spowoduje przepełnienie stosu w trakcie wykonywania
+c:\users\kubaz\source\repos\obiektowka proj\obiektowka proj\world.cpp(446): warning C4715: "World::GetFieldInVector”: niewszystkie ścieżki kodu zwracają wartość
+  OBIEKTOWKA PROJ.vcxproj -> C:\Users\kubaz\source\repos\OBIEKTOWKA PROJ\Debug\OBIEKTOWKA PROJ.exe
